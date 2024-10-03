@@ -1,6 +1,6 @@
 # Lead Generation Dashboard
 
-![banner](banner.jpg)
+![banner](banner.png)
 
 ## Overview
 The purpose of this project is to create a comprehensive dashboard for monitoring and controlling lead generation and sales performance. This dashboard provides valuable insights into the effectiveness of paid advertising campaigns and helps track ROI trends.
